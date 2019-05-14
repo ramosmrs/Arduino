@@ -37,4 +37,5 @@ void loop()
     Serial.print(t);
     Serial.println(" *C");
   }
+// Incluir o codigo dos botões
 }
